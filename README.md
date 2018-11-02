@@ -17,3 +17,7 @@ To run the server locally,
    npm install nodemon
 
 4. In your terminal, npm start index.js
+
+5. Open localhost:4000
+
+6. If connected to same network or WiFi everyone on the network can use this by using the ip_address:4000
